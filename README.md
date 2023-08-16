@@ -1,10 +1,13 @@
+mandesk image from [studiostock](https://www.freepik.com/author/studiogstock) on [Freepik](https://www.freepik.com/free-vector/elegant-businessman-office-scene_6150085.htm#query=man%20desk&position=18&from_view=search&track=robertav1_2_sidr)
+
+Icons from [Fontawesome](https://fontawesome.com/search?o=r&m=free)
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
 Welcome,
 
-This is the Code Institute student template for Codeanywhere. If you are using Gitpod then you need [this template](https://github.com/Code-Institute-Org/gitpod-full-template) instead.  We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+This is the Code Institute student template for Codeanywhere. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **July 26th, 2023**
+You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **March 3rd, 2023**
 
 ## Codeanywhere Reminders
 
