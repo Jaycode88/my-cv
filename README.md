@@ -1,3 +1,4 @@
+This is copied from my previous repo mycv which was built using the walkthrough tutroial with CodeInstitute, I have modified and personalised all text to match my skills etc.
 mandesk image from [studiostock](https://www.freepik.com/author/studiogstock) on [Freepik](https://www.freepik.com/free-vector/elegant-businessman-office-scene_6150085.htm#query=man%20desk&position=18&from_view=search&track=robertav1_2_sidr)
 
 Icons from [Fontawesome](https://fontawesome.com/search?o=r&m=free)
